@@ -7,7 +7,7 @@ sudo netdiscover -r 10.0.2.0/24
 10.0.2.4 - наш
 
 sudo nmap -A --reason 10.0.2.4
-sudo nmap -sV --reason 10.0.2.12
+sudo nmap -sV --reason 10.0.2.4
 <img width="861" height="612" alt="image" src="https://github.com/user-attachments/assets/bbd19263-c3fd-477c-8157-10466bbd05f3" />
 
 У браузері відкриваємо http://10.0.2.4, отримуємо:
